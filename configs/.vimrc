@@ -1,5 +1,5 @@
-set guifont=Ubuntu\ Mono\ 13
-set lines=32 columns=130
+set guifont=Ubuntu\ Mono\ 12
+set lines=36 columns=150
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
