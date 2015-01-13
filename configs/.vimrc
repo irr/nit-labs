@@ -37,6 +37,3 @@ map <F2> :set fileencoding=utf-8<CR>:set fileformat=unix<CR>:w<CR>
 
 set t_Co=256
 
-colorscheme calmar256-dark
-
-

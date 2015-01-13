@@ -24,9 +24,8 @@ make
 cd
 echo "nit vim configuring..."
 rm -rf ~/.vim
-mkdir -p ~/.vim/autoload ~/.vim/bundle ~/.vim/colors
+mkdir -p ~/.vim/autoload ~/.vim/bundle 
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
-cp ~/nit/configs/calmar256-dark.vim ~/.vim/colors/
 cd ~/.vim/bundle
 rm -rf nit
 ln -s /opt/nit/misc/vim nit
