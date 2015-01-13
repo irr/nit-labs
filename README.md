@@ -1,7 +1,7 @@
 nit-labs
 -----------
 
-**nit-labs**  is a set of sample codes whose main purpose is to experiment and test *Nit* programming language
+**nit-labs**  is a set of sample codes whose main purpose is to experiment and test *[Nit]* programming language
 
 ```shell
 # CentOS 6.x
